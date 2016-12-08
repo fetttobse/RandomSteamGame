@@ -1,3 +1,4 @@
-/**
- * Created by tobse on 08.12.2016.
- */
+document.getElementById("randomBtn").addEventListener("click", function () {
+    //On Click get random Steam Game
+    console.log("Button clicked");
+});
